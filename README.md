@@ -1,5 +1,8 @@
 # FARO
 
+<img width="1254" height="1254" alt="faro" src="https://github.com/user-attachments/assets/8a943ac3-0b8f-4269-ba9f-c4303203d5ec" />
+
+
 **F.A.R.O. = Familia, Alerta, Resguardo y Orientación**
 
 **FARO** es una herramienta gratuita de protección familiar contra estafas digitales.  
