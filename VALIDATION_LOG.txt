@@ -1,0 +1,11 @@
+[OK] Python syntax: FARO v5.4
+[OK] Python syntax: FARO LITE v1.1
+[OK] Full FARO preventive threshold 43
+[OK] Full FARO urgent threshold 70
+[OK] Full FARO alert button texts
+[OK] Full FARO opens WhatsApp helper
+[OK] Lite preventive threshold 43
+[OK] Lite urgent threshold 70
+[OK] Lite alert button texts
+[OK] No hidden sending full
+[OK] No hidden sending lite

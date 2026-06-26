@@ -1,0 +1,5 @@
+# FARO v5.3 currently uses only Python standard library modules.
+# This file is intentionally kept for future optional dependencies.
+#
+# Example future dependency:
+# pyttsx3>=2.90

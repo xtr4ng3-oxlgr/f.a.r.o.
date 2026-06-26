@@ -1,0 +1,16 @@
+[OK] Python syntax: FARO public release
+[OK] Python syntax: FARO LITE public release
+[OK] Full: FARO acronym
+[OK] Full: xtr4ng3 sole author
+[OK] Full: Nonprofit
+[OK] Full: FR33 M4N
+[OK] Full: Facebook contact
+[OK] Full: People wording
+[OK] Full: Usage section
+[OK] Lite: FARO acronym
+[OK] Lite: xtr4ng3 sole author
+[OK] Lite: Nonprofit
+[OK] Lite: FR33 M4N
+[OK] Lite: Facebook contact
+[OK] Lite: People wording
+[OK] Lite: Usage section

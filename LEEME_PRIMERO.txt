@@ -1,0 +1,31 @@
+FARO - LEEME PRIMERO
+
+F.A.R.O. = Familia, Alerta, Resguardo y Orientación.
+
+1. Extraé el ZIP.
+2. Abrí ABRIR_FARO.bat.
+3. Cargá contactos de confianza.
+4. Usá Llamada en vivo si alguien te llama con algo raro.
+5. Si FARO marca aviso o alerta, tocá el botón para abrir WhatsApp con un mensaje preparado.
+
+FARO no manda mensajes ocultos.
+FARO no reemplaza una denuncia.
+FARO ayuda a frenar, verificar y pedir ayuda.
+
+Desarrollado únicamente por xtr4ng3.
+Sin fines de lucro.
+Por y para el pueblo.
+FR33 M4N.
+
+## FARO es un proyecto **sin fines de lucro**.
+
+Las mejoras, pruebas, ideas, reportes y donaciones voluntarias son bienvenidas para sostener el desarrollo.
+
+Contacto público:
+
+```text
+Facebook: https://www.facebook.com/Str0ma3/
+```
+
+Contacto:
+https://www.facebook.com/Str0ma3/
