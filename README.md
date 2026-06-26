@@ -134,7 +134,7 @@ Recomendación:
 Formato recomendado para Argentina:
 
 ```text
-549291XXXXXXX
++549011XXXXXXX
 ```
 
 Sin `+`, sin espacios, sin guiones y sin paréntesis.
